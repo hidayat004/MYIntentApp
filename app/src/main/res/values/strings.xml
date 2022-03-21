@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MYIntentApp</string>
+    <string name="halaman_move_activity">halaman pindah</string>
+    <string name="move_activity" />
+    <string name="data_received" />
+    <string name="move_with_data" />
+</resources>
